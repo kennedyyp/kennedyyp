@@ -1,3 +1,7 @@
+<div aling="right">
+    <img align="right" height="500" width="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif"  />
+</div>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F70000&width=435&lines=%F0%9F%91%BE+Welcome+to+My+Profile+%F0%9F%91%BE" alt="Typing SVG" /></a>
 </div> 
