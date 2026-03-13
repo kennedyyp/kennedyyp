@@ -5,7 +5,7 @@
 ###
 
 <div aling="right">
-    <img align="right" height="500" width="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif"  />
+    <img align="right" height="500" width="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif"  />
 </div>
 
 ## Eae Me chamo Pedro Kennedy ##
@@ -15,7 +15,7 @@
 
 <div align="left">
   <a href="https://instagram.com/kenny.p77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F70000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
 </div>
 
