@@ -1,25 +1,17 @@
-<h2 align="center">Hey 👋What's Up?</h2>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F70000&width=435&lines=%F0%9F%91%BE+Welcome+to+My+Profile+%F0%9F%91%BE" alt="Typing SVG" /></a>
+</div> 
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennedyyp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyyp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="153" alt="languages graph"  />
+<div aling="right">
+    <img align="right" height="200" width="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif"  />
 </div>
 
-###
+## Eae Me chamo Pedro Kennedy ##
+- mfamfpomapomaompamgpoamagsdddddddddddgb\bsebs\bsb\sbsbs\bsbseb <br> aifnaoifnafnonao
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFlajd3Nmhmb3ZiZXZrNXBjNmEwdWtkeGlzemc0NzNxaW1iZnZwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif"  />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://instagram.com/kenny.p77" target="_blank">
@@ -27,10 +19,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kennedyyp/kennedyyp/output/snake.svg" alt="Snake animation" />
-
-###
